@@ -1,0 +1,34 @@
+.flex {
+    display: flex;
+}
+.fx-dir {
+    flex-direction: column;
+}
+.al-center {
+    align-items: center;
+}
+.js-center {
+    justify-content: center;
+}
+.sp-bw{
+    justify-content: space-between;
+}
+.px-1 {
+    padding-inline: 1rem;
+}
+.px-2 {
+    padding-inline-start: 2rem;
+}
+.py-1 {
+    padding-block: 2rem;
+}
+.mx-1 {
+    margin-block: 1rem;
+}
+.mx-2 {
+    margin: 2rem 0 1rem;
+}
+.container {
+    width: 100%;
+}
+
