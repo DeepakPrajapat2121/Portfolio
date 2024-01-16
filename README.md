@@ -23,6 +23,7 @@
                     <a class="nav__links" href="#about">About</a>
                     <a class="nav__links" href="#skills">Skills</a>
                     <a class="nav__links" href="#work">Work</a>
+                    <a class="nav__links" href="#interests">Interests</a>
                     <a class="nav__links" href="#contact_link">Conatct</a>
             </div>
         </nav>
@@ -44,6 +45,8 @@
                     <span id="element"></span>
                 </h1>
                 <a href="#contact_link" class="button">Contact</a>
+               
+
             </div>
             <div class="home_social">
                 <ul class="social_links flex fx-dir">
@@ -70,6 +73,7 @@
                     </h2>
                     <p>Passionate and driven web developer with a strong foundation in the basics of web development. Eager to bring creativity and problem-solving skills to create dynamic and user-friendly websites. Committed to continuous learning and staying abreast of industry trends. Ready to contribute innovative solutions to collaborative projects.</p>
                 </div>
+                <a href="resume.pdf" class="button">Resume</a>
             </div>
         </section>
 
@@ -125,46 +129,78 @@
         <!-- ****** WORK ******** -->
         <section class="section work container" id="work">
             <h2 class="section_title">WORK</h2>
-            <!-- <div class="work_content project_work">
+            <div class="work_content project_work">
+                
+                
                 <a href="#" class="work_img">
-                    <img src="./assets/img/abstract.webp" alt="">
+                 <img src="p11.jpg" alt="">
                     <div class="pr-title">
-                        <h3>ABSTRACT CLone</h3>
+                        <h3>Login & Sign up Page</h3>
                     </div>
                 </a>
                 <a href="#" class="work_img">
-                    <img src="./assets/img/Monogram2.jpg" alt="">
+                    <img src="food.jpg" alt="">
                     <div class="pr-title">
-                        <h3>Monogram CLone</h3>
+                        <h3>Food Restaurant</h3>
                     </div>
                 </a>
                 <a href="#" class="work_img">
-                    <img src="./assets/img/BackstageTalks.webp" alt="">
+                    <img src="p33.jpg" alt="">
                     <div class="pr-title">
-                        <h3>Backstage Talks CLone</h3>
+                        <h3>Copy Brand Website</h3>
                     </div>
                 </a>
                 <a href="#" class="work_img">
-                    <img width="100%" height="auto" src="./assets/img/Academicform.jpg" alt="">
+                    <img width="100%" height="auto" src="property.jpg" alt="">
                     <div class="pr-title">
-                        <h3>Academic Form</h3>
+                        <h3>Property Deal</h3>
                     </div>
                 </a>
                 <a href="#" class="work_img">
-                    <img src="./assets/img/landingpage.png" alt="">
+                    <img src="marketing.jpg" alt="">
                     <div class="pr-title">
-                        <h3>Landing Pages</h3>
+                        <h3>Marketing</h3>
                     </div>
                 </a>
                 <a href="#" class="work_img">
-                    <img src="./assets/img/spotify.png" alt="">
+                    <img src="P66.jpg" alt="">
                     <div class="pr-title">
-                        <h3>Spotify Clone</h3>
+                        <h3>Responsive Portfolio</h3>
                     </div>
                 </a>
-            </div> -->
+            </div>
         </section>
     </main>
+
+
+
+    <section class="section work container" id="interests">
+        <h2 class="section_title">Interests</h2>
+        <div class="work_content project_work">
+
+            <a href="#" class="work_img">
+                <img src="hobies1.webp" alt="">
+                <div class="pr-title">
+                    <h3>Cooking</h3>
+                </div>
+            </a>
+
+            <a href="#" class="work_img">
+                <img src="hobies2.avif" alt="">
+                <div class="pr-title">
+                    <h3>Gaming</h3>
+                </div>
+            </a>
+
+            <a href="#" class="work_img">
+                <img src="hobies3.jpg" alt="">
+                <div class="pr-title">
+                    <h3>Adventure</h3>
+                </div>
+            </a>
+
+
+        </section>
 
     <footer class="my_footer flex al-center js-center">
         <div class="footer_info">
